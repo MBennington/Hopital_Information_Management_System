@@ -30,7 +30,7 @@ import javafx.stage.Stage;
 public class Sign_Up_asController implements Initializable {
 
    
-    
+        //medical officer button
         @FXML   
         public void medicalOfficerBtn(ActionEvent event) throws IOException{
         Parent signUpAsParent = FXMLLoader.load(getClass().getResource("/View/Sign_Up_as_MO.fxml"));
