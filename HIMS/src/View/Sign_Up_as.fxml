@@ -21,7 +21,7 @@
             <Font name="Times New Roman" size="25.0" />
          </font>
       </Button>
-      <Button layoutX="529.0" layoutY="2.0" mnemonicParsing="false" onAction="#goLoginMenuBtn" style="-fx-background-color: #960db7; -fx-background-radius: 25;" text="Go Login Menu" textFill="#fcfafa">
+      <Button layoutX="535.0" layoutY="2.0" mnemonicParsing="false" onAction="#goLoginMenuBtn" style="-fx-background-color: #960db7; -fx-background-radius: 25;" text="Go Login Menu" textFill="#fcfafa">
          <font>
             <Font name="System Bold" size="14.0" />
          </font>
