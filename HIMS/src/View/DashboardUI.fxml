@@ -84,7 +84,7 @@
                   </JFXButton>
                </children>
             </VBox>
-            <JFXButton buttonType="RAISED" layoutX="14.0" layoutY="724.0" prefHeight="47.0" prefWidth="142.0" styleClass="Special-buttons" text="Signout" textFill="#b3d1f4" AnchorPane.bottomAnchor="14.799999999999997" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="62.0">
+            <JFXButton buttonType="RAISED" layoutX="14.0" layoutY="724.0" onAction="#Signoutbtn" prefHeight="47.0" prefWidth="142.0" styleClass="Special-buttons" text="Signout" textFill="#b3d1f4" AnchorPane.bottomAnchor="14.799999999999997" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="62.0">
                <font>
                   <Font name="Segoe UI Symbol" size="20.0" />
                </font>
