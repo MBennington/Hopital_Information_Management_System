@@ -50,6 +50,9 @@ public class Sign_Up_as_RECEPTIONISTController implements Initializable {
     
     
     
+    
+    
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
